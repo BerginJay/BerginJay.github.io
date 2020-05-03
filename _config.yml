@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bojun Jia"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate at PKU. Major in Planetary/Microwave Remote Sensing."
+  bio              : "Ph.D candidate at PKU. <br>Major in Planetary/Microwave Remote Sensing."
   location         : "Beijing, China"
-  employer         : "Wenzhe Fa"
+  employer         : <a href="http://www.irsgis.pku.edu.cn/sz/49477.htm">Wenzhe Fa</a>
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "jbj0901@foxmail.com"
